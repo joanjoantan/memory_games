@@ -1,0 +1,48 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//RemoteApi//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://www.meetup.com/ReactJS-Girls-London/events/2750987
+ 87/ical/ReactJS+Girls+Online+#1.ics
+X-WR-CALNAME:Events - ReactJS Girls Online %231.ics
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Europe/London
+TZURL:http://tzurl.org/zoneinfo-outlook/Europe/London
+X-LIC-LOCATION:Europe/London
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20201214T095352Z
+DTSTART;TZID=Europe/London:20210114T170000
+DTEND;TZID=Europe/London:20210114T190000
+STATUS:CONFIRMED
+SUMMARY:ReactJS Girls Online #1
+DESCRIPTION:React.js Girls London\nThursday\, January 14 at 5:00 PM\n\nHi
+  everyone\,  We're really happy to announce that ReactJS Girls is coming
+  online in the new year!  We want to start 2021 by having all our commun
+ ity r...\n\nhttps://www.meetup.com/ReactJS-Girls-London/events/275098787
+ /
+CLASS:PUBLIC
+CREATED:20201210T112712Z
+GEO:51.52;-0.10
+LOCATION:Online event
+URL:https://www.meetup.com/ReactJS-Girls-London/events/275098787/
+LAST-MODIFIED:20201210T114917Z
+UID:event_275098787@meetup.com
+END:VEVENT
+END:VCALENDAR
